@@ -6,3 +6,8 @@ In the text classification task, we leverage the Word2Vec model to classify text
 
 ## Content Moderation using Baidu AI
 The repository also includes an implementation of content moderation using Baidu AI's text content moderation API. This API allows you to perform content moderation on custom datasets.
+<img src="https://github.com/Lxt115/Text-Classification-and-Content-Moderation/blob/main/image/1.png" width="1000"/>
+
+<img src="https://github.com/Lxt115/Text-Classification-and-Content-Moderation/blob/main/image/2.jpg" width="1000"/>
+
+<img src="https://github.com/Lxt115/Text-Classification-and-Content-Moderation/blob/main/image/3.jpg" width="1000"/>
